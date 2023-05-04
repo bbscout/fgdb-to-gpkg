@@ -40,5 +40,5 @@ This plugin was entirely written by the AI language model ChatGPT from OpenAI.
 ---
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Release](https://img.shields.io/github/release/breta01/fgdb_to_gpkg.svg)](https://github.com/breta01/fgdb_to_gpkg/releases)
-[![GitHub Issues](https://img.shields.io/github/issues/breta01/fgdb_to_gpkg.svg)](https://github.com/breta01/fgdb_to_gpkg/issues)
+[![GitHub Release](https://img.shields.io/github/release/bbscout/fgdb-to-gpkg.svg)](https://github.com/bbscout/fgdb-to-gpkg/releases)
+[![GitHub Issues](https://img.shields.io/github/issues/bbscout/fgdb-to-gpkg.svg)](https://github.com/bbscout/fgdb-to-gpkg/issues)
