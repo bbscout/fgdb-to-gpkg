@@ -1,0 +1,8 @@
+[general]
+name=FgdbToGpkg
+qgisMinimumVersion=3.0
+description=Plugin to convert File Geodatabase (FGDB) to GeoPackage (GPKG)
+version=1.0
+author=Your Name
+email=your@email.com
+hasProcessingProvider=yes
