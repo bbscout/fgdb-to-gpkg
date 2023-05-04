@@ -1,15 +1,15 @@
 # Plugin pro konverzi FGDB do GPKG (pro QGIS)
 
-<div style="text-align: center;">
+<p align="center">
   <a href="./README_cs.md">Česky</a> |
   <a href="./README.md">English</a>
-</div>
+</p>
 
 ---
 
 ## Popis
 
-Tento plugin pro QGIS umožňuje snadnou konverzi vrstev z formátu File Geodatabase (FGDB) do formátu GeoPackage (GPKG). Uživatelé mohou také zvolit, zda chtějí připojit název feature datasetu jako prefix k názvu vrstvy výsledného GeoPackage.
+Tento plugin pro QGIS umožňuje snadnou konverzi vrstev z formátu File Geodatabase (FGDB) do formátu GeoPackage (GPKG).
 
 ## Instalace
 
@@ -31,8 +31,7 @@ Plugin je nyní nainstalován a aktivován v QGIS. Najdete ho v panelu Processin
 1. Otevřete panel Processing Toolbox a rozbalte kategorii `FGDB to GPKG`.
 2. Spusťte algoritmus `Convert FGDB to GPKG`.
 3. Zvolte vstupní File Geodatabase (.gdb) a výstupní GeoPackage (.gpkg).
-4. Zaškrtněte možnost `Připojit název Feature Datasetu k názvu vrstvy`, pokud chcete připojit název feature datasetu jako prefix k názvu vrstvy výsledného GeoPackage.
-5. Klikněte na tlačítko `Spustit`.
+4. Klikněte na tlačítko `Spustit`.
 
 ## Autorství
 

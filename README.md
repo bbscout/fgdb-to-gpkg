@@ -1,15 +1,15 @@
 # FGDB to GPKG Converter Plugin (QGIS)
 
-<div style="text-align: center;">
+<p align="center">
   <a href="./README_cs.md">Česky</a> |
   <a href="./README.md">English</a>
-</div>
+</p>
 
 ---
 
 ## Description
 
-This QGIS plugin allows easy conversion of layers from File Geodatabase (FGDB) format to GeoPackage (GPKG) format. Users can also choose to prepend the feature dataset name as a prefix to the layer name in the resulting GeoPackage.
+This QGIS plugin allows easy conversion of layers from File Geodatabase (FGDB) format to GeoPackage (GPKG) format.
 
 ## Installation
 
@@ -31,8 +31,7 @@ The plugin is now installed and activated in QGIS. You can find it in the Proces
 1. Open the Processing Toolbox panel and expand the `FGDB to GPKG` category.
 2. Run the `Convert FGDB to GPKG` algorithm.
 3. Choose the input File Geodatabase (.gdb) and output GeoPackage (.gpkg).
-4. Check the option `Prepend Feature Dataset name to layer name` if you want to prepend the feature dataset name as a prefix to the layer name in the resulting GeoPackage.
-5. Click `Run`.
+4. Click `Run`.
 
 ## Authorship
 
