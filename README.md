@@ -1,4 +1,4 @@
-# FGDB to GPKG Converter Plugin
+# FGDB to GPKG Converter Plugin (QGIS)
 
 <div style="text-align: center;">
   <a href="./README_cs.md">Česky</a> |
